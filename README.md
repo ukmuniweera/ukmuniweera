@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">🧑🏻‍💻 I am a BSc IT undergraduate at the University of Jaffna with a background in engineering technology from Dharmaraja College, Kandy. I am committed to continuous learning and innovation in the tech industry.</h3>
+<h2 align="center">🧑🏻‍💻 I am a BSc IT undergraduate at the University of Jaffna with a background in engineering technology from Dharmaraja College, Kandy. I am committed to continuous learning and innovation in the tech industry.</h2>
 
 ###
 
