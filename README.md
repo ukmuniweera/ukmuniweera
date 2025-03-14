@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udula Kesara Muniweera</h1>
-<h3 align="center">👨‍💻 I am a BSc IT undergraduate at the University of Jaffna with a background in engineering technology from Dharmaraja College, Kandy. I am committed to continuous learning and innovation in the tech industry.</h3>
+<h3 align="center">🧑🏻‍💻 I am a BSc IT undergraduate at the University of Jaffna with a background in engineering technology from Dharmaraja College, Kandy. I am committed to continuous learning and innovation in the tech industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukmuniweera&label=Profile%20views&color=0e75b6&style=flat" alt="ukmuniweera" /> </p>
 
