@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Udula Kesara Muniweera</h1>
 
-<p align="center">
-  <strong>Software Engineer | Full-Stack Web Development</strong>
-</p>
+<div align="center">
+  <img height="300" src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp"  />
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/udula-kesara-muniweera/">LinkedIn</a>
+  <strong>Software Engineer | Full-Stack Web Development</strong>
 </p>
 
 ---
@@ -37,40 +37,4 @@ I enjoy understanding how applications work as a whole and building software tha
 
 **Other:** REST APIs, JWT authentication, relational database design
 
-## Selected Projects
-
-### [BuynGo.lk — E-commerce Marketplace](https://buyngo.lk/)
-
-Designed and developed an e-commerce marketplace as the sole developer, covering the user interface, database design and application implementation.
-
-**Technologies:** React, TypeScript, Node.js, Express.js, MySQL
-
-### [Galaxors Academy — Academic Application](https://academy.galaxors.com/)
-
-Designed and independently developed the frontend interface for an academic application.
-
-**Technologies:** React, TypeScript
-
-### [Adflux — Pixel Management Application](https://adflux.galaxors.com/)
-
-Developed application UI components and features, contributing to both frontend and backend functionality.
-
-**Technologies:** React, TypeScript, Django REST Framework, PostgreSQL, Docker
-
-### [Disaster Watch — Disaster Monitoring Platform](https://github.com/DisasterWatchHQ)
-
-Developed a platform for disaster data visualization, crowdsourced reporting, predictive modelling and resource mapping.
-
-**Technologies:** JavaScript, Node.js, Express.js, MongoDB
-
-### [BikeKade.lk — E-commerce Platform](https://github.com/BikeKade-lk/Application)
-
-Built a marketplace for dirt bike parts with product filtering, image uploads, user dashboards and authentication.
-
-**Technologies:** Spring Boot, React, Material UI, MySQL, JWT
-
-### [ConnectX — Real-time Chat Application](https://github.com/ukmuniweera/ConnectX)
-
-Built a chat application with real-time messaging, authentication, protected routes and theme switching.
-
-**Technologies:** Node.js, Express.js, Socket.IO, MongoDB
+<img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
