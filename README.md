@@ -1,65 +1,76 @@
-<h1 align="center">Hi 👋🏻, I'm Udula Kesara Muniweera</h1>
+<h1 align="center">Hi, I'm Udula Kesara Muniweera</h1>
 
-###
+<p align="center">
+  <strong>Software Engineer | Full-Stack Web Development</strong>
+</p>
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/udula-kesara-muniweera/">LinkedIn</a>
+</p>
 
-###
+---
 
-<h2 align="center">🧑🏻‍💻 I am a BSc IT graduate from the University of Jaffna with a background in engineering technology from Dharmaraja College, Kandy. Currently, I am working as a Software Developer, focusing on building scalable web applications and enhancing my problem solving skills. I am passionate about continuous learning, exploring new technologies and contributing to impactful digital solutions.</h2>
+## About Me
 
-###
+I'm a Software Engineer at Galaxors (Pvt) Ltd, working on web applications across e-commerce, education and pixel management.
 
-<h3 align="left">Connect with me:</h3>
+My work includes building user interfaces, developing backend services, integrating APIs and working with databases. I've worked across the stack depending on project requirements, including independently developing an e-commerce marketplace from UI and database design through implementation.
 
-###
+I enjoy understanding how applications work as a whole and building software that is practical, maintainable and easy to use.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/udula-kesara-muniweera/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
-  </a>
-  <img width="15" />
-  <a href="https://x.com/muniweerauk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
-  </a>  
-</div>
+- 💻 Professional experience in frontend and backend development
+- 🛒 Developed an e-commerce marketplace as the sole developer
+- 🔧 Experience with REST APIs, authentication and database-driven applications
+- 🎓 BSc in Information Technology, University of Jaffna
 
-###
+## Technical Skills
 
-<h3 align="left">Languages and Tools:</h3>
+**Languages:** JavaScript, TypeScript, Java, PHP, SQL, HTML, CSS
 
-###
+**Frontend:** React, React Native, Material UI, Bootstrap
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="15" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" alt="mui logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-</div>
+**Backend:** Node.js, Express.js, Django, Django REST Framework, Spring Boot, Laravel
 
-###
+**Databases:** MySQL, PostgreSQL, MongoDB
 
-<img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+**Tools & Platforms:** Git, GitHub, Docker, AWS, Amazon S3
 
-###
+**Other:** REST APIs, JWT authentication, relational database design
+
+## Selected Projects
+
+### [BuynGo.lk — E-commerce Marketplace](https://buyngo.lk/)
+
+Designed and developed an e-commerce marketplace as the sole developer, covering the user interface, database design and application implementation.
+
+**Technologies:** React, TypeScript, Node.js, Express.js, MySQL
+
+### [Galaxors Academy — Academic Application](https://academy.galaxors.com/)
+
+Designed and independently developed the frontend interface for an academic application.
+
+**Technologies:** React, TypeScript
+
+### [Adflux — Pixel Management Application](https://adflux.galaxors.com/)
+
+Developed application UI components and features, contributing to both frontend and backend functionality.
+
+**Technologies:** React, TypeScript, Django REST Framework, PostgreSQL, Docker
+
+### [Disaster Watch — Disaster Monitoring Platform](https://github.com/DisasterWatchHQ)
+
+Developed a platform for disaster data visualization, crowdsourced reporting, predictive modelling and resource mapping.
+
+**Technologies:** JavaScript, Node.js, Express.js, MongoDB
+
+### [BikeKade.lk — E-commerce Platform](https://github.com/BikeKade-lk/Application)
+
+Built a marketplace for dirt bike parts with product filtering, image uploads, user dashboards and authentication.
+
+**Technologies:** Spring Boot, React, Material UI, MySQL, JWT
+
+### [ConnectX — Real-time Chat Application](https://github.com/ukmuniweera/ConnectX)
+
+Built a chat application with real-time messaging, authentication, protected routes and theme switching.
+
+**Technologies:** Node.js, Express.js, Socket.IO, MongoDB
