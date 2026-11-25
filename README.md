@@ -1,40 +1,39 @@
-<h1 align="center">Hi, I'm Udula Kesara Muniweera</h1>
+ <h1 align="center">Hi, I'm Udula Kesara Muniweera</h1>
 
 <div align="center">
-  <img height="300" src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp"  />
+  <img height="300" src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp" />
 </div>
 
 <p align="center">
-  <strong>Software Engineer | Full-Stack Web Development</strong>
+  <strong>Software Engineer | Full-Stack Developer</strong>
 </p>
 
 ---
 
 ## About Me
 
-I'm a Software Engineer at Galaxors (Pvt) Ltd, working on web applications across e-commerce, education and pixel management.
+I'm a Software Engineer who enjoys turning ideas into practical, user-friendly applications. I work across frontend and backend development, building web applications, integrating APIs and working with databases.
 
-My work includes building user interfaces, developing backend services, integrating APIs and working with databases. I've worked across the stack depending on project requirements, including independently developing an e-commerce marketplace from UI and database design through implementation.
+I enjoy learning new technologies, solving problems and continuously improving the way I write software.
 
-I enjoy understanding how applications work as a whole and building software that is practical, maintainable and easy to use.
+- 💻 Experienced in full-stack web development
+- ⚛️ Building modern interfaces with React and TypeScript
+- ⚙️ Developing backend services and REST APIs
+- 🗄️ Working with relational and NoSQL databases
+- 🎓 BSc in Information Technology
 
-- 💻 Professional experience in frontend and backend development
-- 🛒 Developed an e-commerce marketplace as the sole developer
-- 🔧 Experience with REST APIs, authentication and database-driven applications
-- 🎓 BSc in Information Technology, University of Jaffna
+## Tech Stack
 
-## Technical Skills
-
-**Languages:** JavaScript, TypeScript, Java, PHP, SQL, HTML, CSS
+**Languages:** JavaScript, TypeScript, Java, Python, PHP, SQL
 
 **Frontend:** React, React Native, Material UI, Bootstrap
 
-**Backend:** Node.js, Express.js, Django, Django REST Framework, Spring Boot, Laravel
+**Backend:** Node.js, Express.js, Django, Spring Boot, Laravel
 
 **Databases:** MySQL, PostgreSQL, MongoDB
 
-**Tools & Platforms:** Git, GitHub, Docker, AWS, Amazon S3
+**Tools & Platforms:** Git, GitHub, Docker, AWS
 
-**Other:** REST APIs, JWT authentication, relational database design
+---
 
 <img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
